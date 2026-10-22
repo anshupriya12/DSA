@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshupriya12/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/anshupriya12/DSA/tree/master/0912-sort-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/anshupriya12/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshupriya12/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/anshupriya12/DSA/tree/master/0912-sort-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/anshupriya12/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Merge Sort
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Greedy
+|  |
+| ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/anshupriya12/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
