@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshupriya12/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/anshupriya12/DSA/tree/master/0912-sort-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/anshupriya12/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/anshupriya12/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/anshupriya12/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/anshupriya12/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
