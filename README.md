@@ -41,22 +41,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/anshupriya12/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/anshupriya12/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
