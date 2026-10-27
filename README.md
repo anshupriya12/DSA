@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
