@@ -109,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/anshupriya12/DSA/tree/master/1494-parallel-courses-ii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anshupriya12/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anshupriya12/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
