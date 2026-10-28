@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshupriya12/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/anshupriya12/DSA/tree/master/0912-sort-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/anshupriya12/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2050-parallel-courses-iii](https://github.com/anshupriya12/DSA/tree/master/2050-parallel-courses-iii) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/anshupriya12/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Divide and Conquer
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/anshupriya12/DSA/tree/master/1462-course-schedule-iv) |
 | [1494-parallel-courses-ii](https://github.com/anshupriya12/DSA/tree/master/1494-parallel-courses-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/anshupriya12/DSA/tree/master/2050-parallel-courses-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -87,15 +89,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/anshupriya12/DSA/tree/master/1462-course-schedule-iv) |
+| [2050-parallel-courses-iii](https://github.com/anshupriya12/DSA/tree/master/2050-parallel-courses-iii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
 | [1494-parallel-courses-ii](https://github.com/anshupriya12/DSA/tree/master/1494-parallel-courses-ii) |
+| [2050-parallel-courses-iii](https://github.com/anshupriya12/DSA/tree/master/2050-parallel-courses-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/anshupriya12/DSA/tree/master/1494-parallel-courses-ii) |
+| [2050-parallel-courses-iii](https://github.com/anshupriya12/DSA/tree/master/2050-parallel-courses-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
