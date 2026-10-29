@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/anshupriya12/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/anshupriya12/DSA/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/anshupriya12/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/anshupriya12/DSA/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/anshupriya12/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anshupriya12/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anshupriya12/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anshupriya12/DSA/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/anshupriya12/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/anshupriya12/DSA/tree/master/1462-course-schedule-iv) |
 | [1494-parallel-courses-ii](https://github.com/anshupriya12/DSA/tree/master/1494-parallel-courses-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshupriya12/DSA/tree/master/1971-find-if-path-exists-in-graph) |
